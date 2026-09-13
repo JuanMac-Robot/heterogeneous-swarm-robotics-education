@@ -8,7 +8,7 @@ The main application of the project is **Search and Rescue**, although the same 
 
 ---
 
-## Ground Swarm
+## [Ground Swarm](ground-swarm.md)
 
 The ground swarm will be developed using mobile robots controlled by ESP32 microcontrollers.
 
