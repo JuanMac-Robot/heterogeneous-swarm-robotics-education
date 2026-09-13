@@ -23,7 +23,7 @@ Students will develop:
 
 ---
 
-## Aerial Swarm
+## [Aerial Swarm](aerial-swarm.md)
 
 The aerial swarm will be developed using Crazyflie drones.
 
