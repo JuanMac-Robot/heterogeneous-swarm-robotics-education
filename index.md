@@ -1,7 +1,9 @@
 # Heterogeneous Swarm Robotics Education
 
 ## Two Swarms. One Mission.
-
+[Ground Swarm](ground-swarm.md) |
+[Aerial Swarm](aerial-swarm.md) |
+[Heterogeneous Swarm](heterogeneous-swarm.md)
 This project explores the development of heterogeneous robotic swarms composed of aerial and ground robots.
 
 The main application of the project is **Search and Rescue**, although the same technologies may later be applied to exploration, surveillance, transportation, human assistance, and security.
