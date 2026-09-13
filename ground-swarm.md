@@ -37,3 +37,7 @@ Students will learn:
 - Navigation
 - Multi-robot control
 - Swarm robotics
+
+- ---
+
+[← Back to Home](index.md)
