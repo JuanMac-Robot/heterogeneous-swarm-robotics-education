@@ -38,7 +38,7 @@ Students will develop:
 
 ---
 
-## Heterogeneous Swarm
+## [Heterogeneous Swarm](heterogeneous-swarm.md)
 
 The final objective is to integrate the aerial and ground swarms into a cooperative robotic system.
 
