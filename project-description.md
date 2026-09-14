@@ -113,7 +113,7 @@ They will develop the major components required to create the swarms.
 
 ---
 
-# Stage 1 — Ground Swarm Development
+# Stage 1:  Ground Swarm Development
 
 The first major subsystem is the ground robotic swarm.
 
@@ -190,7 +190,7 @@ Students will investigate appropriate swarm and formation-control algorithms and
 
 ---
 
-# Stage 2 — Aerial Swarm Development
+# Stage 2: Aerial Swarm Development
 
 The second major subsystem is the aerial robotic swarm.
 
