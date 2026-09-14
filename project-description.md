@@ -3,6 +3,7 @@
 ## Heterogeneous Swarm Robotics Education
 
 ### Two Swarms. One Mission.
+![Heterogeneous Aerial-Ground Swarm Robotics](project-overview.jpg)
 
 The Heterogeneous Swarm Robotics project is an educational and research-oriented robotics project focused on the design, development, and experimental validation of cooperative aerial and ground robotic swarms.
 
