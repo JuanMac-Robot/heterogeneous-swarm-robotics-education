@@ -11,6 +11,11 @@ The project will guide students through the complete development process, beginn
 
 The primary application scenario is **Search and Rescue**, although the same robotic technologies and swarm concepts may later be extended to applications such as exploration, surveillance, transportation, logistics, human assistance, inspection, and security.
 
+## Project Documents
+
+The complete project proposal is available here:
+
+[📄 Download the Project Proposal](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References v2.docx)
 ---
 
 # Why This Project Matters
