@@ -1,6 +1,10 @@
 # Heterogeneous Swarm Robotics Education
 
 ## Two Swarms. One Mission.
+## [Project Description](project-description.md)
+
+Learn about the motivation, objectives, system architecture, development stages, educational goals, and final mission of the Heterogeneous Swarm Robotics project.
+
 [Ground Swarm](ground-swarm.md) |
 [Aerial Swarm](aerial-swarm.md) |
 [Heterogeneous Swarm](heterogeneous-swarm.md)
