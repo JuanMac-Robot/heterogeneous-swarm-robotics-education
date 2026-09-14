@@ -13,9 +13,11 @@ The primary application scenario is **Search and Rescue**, although the same rob
 
 ## Project Documents
 
-The complete project proposal is available here:
+The complete project proposal is available in the following formats:
 
-[📄 Download the Project Proposal](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References v2.docx)
+- [📕 View Project Proposal - PDF](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References v2.pdf)
+- [📄 Download Project Proposal - Word](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References v2.docx)
+
 ---
 
 # Why This Project Matters
