@@ -52,6 +52,165 @@ The long-term challenge is therefore not simply to operate several robots at the
 
 ---
 
+# Research Foundation
+
+This project builds on previous research developed by the faculty advisor and collaborators in swarm robotics, multi-robot systems, autonomous navigation, formation control, aerial robotics, and Search and Rescue applications.
+
+The previous work provides an important research foundation for the development of the new heterogeneous aerial-ground swarm platform.
+
+## Swarm Robotics for Search and Rescue
+
+Previous research investigated the use of bio-inspired swarm behaviors for navigation in Search and Rescue environments.
+
+Attraction and repulsion mechanisms were used to maintain swarm cohesion, avoid collisions and obstacles, and guide groups of robots toward areas of interest.
+
+The work also explored the idea of separating robots from the main swarm when victims are detected, allowing the remaining swarm to continue the search mission.
+
+**Selected publication:**
+
+*J. León, G. A. Cardona, A. Botello, and J. M. Calderón,  
+"Robot Swarms Theory Applicable to Seek and Rescue Operation."*
+
+---
+
+## Swarm Navigation and Victim Detection
+
+Later work extended these concepts by combining swarm navigation, artificial potential functions, sub-swarm creation, formation control, and consensus-based victim detection.
+
+When robots identify a possible victim, a group of agents can separate from the main swarm, form around the target, and collectively evaluate the available sensor information.
+
+**Selected publication:**
+
+*G. A. Cardona and J. M. Calderon,  
+"Robot Swarm Navigation and Victim Detection Using Rendezvous Consensus in Search and Rescue Operations," Applied Sciences, 2019.*
+
+---
+
+## UAV Swarm Formation Control
+
+Formation control has also been investigated for aerial robot swarms.
+
+A fuzzy-logic leader-follower strategy was developed to allow UAVs to organize around a leader, maintain appropriate distances, avoid collisions, and follow a moving leader.
+
+This research provides a direct foundation for the formation-control component of the Crazyflie aerial swarm developed in this project.
+
+**Selected publication:**
+
+*W. O. Quesada et al.,  
+"Leader-Follower Formation for UAV Robot Swarm Based on Fuzzy Logic Theory," 2018.*
+
+---
+
+## Distributed Swarm Navigation
+
+Distributed Particle Swarm Optimization (DPSO) has been investigated as another bio-inspired method for multi-robot Search and Rescue.
+
+In this approach, robots cooperate during navigation while artificial potential functions provide collision avoidance and attraction toward victims.
+
+This work provides examples of how distributed optimization and bio-inspired algorithms can generate collective navigation behaviors.
+
+**Selected publication:**
+
+*D. Paez, J. P. Romero, B. Noriega, G. A. Cardona, and J. M. Calderon,  
+"Distributed Particle Swarm Optimization for Multi-Robot System in Search and Rescue Operations," IFAC PapersOnLine, 2021.*
+
+---
+
+## Visual Victim Detection and Swarm Coordination
+
+Previous research also combined aerial swarm navigation with computer vision and artificial intelligence.
+
+Quadrotors used visual information and convolutional neural networks to identify possible victims. When a victim was detected, a sub-swarm was created and consensus-based coordination was used to improve the reliability of the detection.
+
+This work demonstrates how perception, swarm coordination, formation control, and collective decision making can operate together during Search and Rescue missions.
+
+**Selected publication:**
+
+*G. A. Cardona, J. Ramirez-Rugeles, E. Mojica-Nava, and J. M. Calderon,  
+"Visual Victim Detection and Quadrotor-Swarm Coordination Control in Search and Rescue Environment," International Journal of Electrical and Computer Engineering, 2021.*
+
+---
+
+## Ground Swarm Experimental Platforms
+
+The development of physical swarm platforms has also been part of the previous research.
+
+ARGroHBotS was developed as an affordable and replicable ground homogeneous robot swarm testbed for evaluating multi-agent and swarm algorithms using real robotic hardware.
+
+This experience directly supports the educational objective of the present project: students should not only simulate swarm algorithms but also implement and experimentally validate them using physical robots.
+
+**Selected publication:**
+
+*N. I. Ospina, E. Mojica-Nava, L. G. Jaimes, and J. M. Calderón,  
+"ARGroHBotS: An Affordable and Replicable Ground Homogeneous Robot Swarm Testbed," IFAC PapersOnLine, 2021.*
+
+---
+
+## Leader-Follower Navigation Using Particle Swarm Optimization
+
+Leader-follower behavior has also been investigated using Particle Swarm Optimization.
+
+The approach demonstrated how multiple aerial agents can follow a leader while maintaining minimum separation and generating coordinated collective motion.
+
+These concepts are relevant to both the homogeneous swarm formation experiments and the future heterogeneous coordination layer.
+
+**Selected publication:**
+
+*N. Gómez, N. Peña, S. Rincon, S. Amaya, and J. Calderon,  
+"Leader-follower Behavior in Multi-agent Systems for Search and Rescue Based on PSO Approach," 2022.*
+
+---
+
+## Artificial Intelligence for Aerial Swarm Navigation
+
+More recent research investigated the use of cooperative Deep Reinforcement Learning for aerial robot teams operating under turbulent wind conditions.
+
+The method uses information shared between neighboring robots through a graph-based architecture, allowing the aerial swarm to improve trajectory tracking while responding collectively to environmental disturbances.
+
+This research provides a foundation for future advanced extensions of the project involving machine learning, distributed intelligence, and resilient swarm autonomy.
+
+**Selected publication:**
+
+*D. Patiño, S. Mayya, J. Calderon, K. Daniilidis, and D. Saldaña,  
+"Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach," IEEE Robotics and Automation Letters, 2023.*
+
+---
+
+## From Previous Research to the Current Project
+
+The current project brings several of these research directions together into one educational and experimental platform:
+
+**Swarm Theory**
+
+↓
+
+**Bio-Inspired Navigation**
+
+↓
+
+**Formation Control**
+
+↓
+
+**Physical Ground Swarms**
+
+↓
+
+**Aerial Swarms**
+
+↓
+
+**Artificial Intelligence and Distributed Coordination**
+
+↓
+
+**Heterogeneous Aerial-Ground Swarms**
+
+The new challenge is to move beyond independently operating homogeneous swarms and investigate how aerial and ground robotic teams with different localization systems, communication interfaces, dynamics, and control architectures can cooperate during a common mission.
+
+---
+---
+
 # Main Engineering Challenge
 
 The aerial and ground swarms are fundamentally different robotic systems.
