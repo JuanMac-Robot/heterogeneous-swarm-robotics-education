@@ -177,7 +177,10 @@ This research provides a foundation for future advanced extensions of the projec
 ---
 
 ## From Previous Research to the Current Project
-## Previous Research → This Project
+
+The current project builds on several previous research directions in swarm robotics, multi-robot systems, Search and Rescue, formation control, aerial robotics, physical swarm platforms, and intelligent coordination.
+
+The following table summarizes how previous research connects with the present Heterogeneous Swarm Robotics project.
 
 | Previous Research | Main Contribution | Connection to This Project |
 |---|---|---|
@@ -197,7 +200,11 @@ This research provides a foundation for future advanced extensions of the projec
 
 The current project can be viewed as the next step in this research progression:
 
-**Bio-Inspired Swarm Navigation**
+**Swarm Theory**
+
+↓
+
+**Bio-Inspired Navigation**
 
 ↓
 
@@ -228,33 +235,6 @@ The current project can be viewed as the next step in this research progression:
 **Heterogeneous Aerial-Ground Swarms**
 
 The objective of the present project is to combine several of these previously explored concepts into a unified physical and educational platform where students can develop, test, and integrate heterogeneous robotic swarms.
-The current project brings several of these research directions together into one educational and experimental platform:
-
-**Swarm Theory**
-
-↓
-
-**Bio-Inspired Navigation**
-
-↓
-
-**Formation Control**
-
-↓
-
-**Physical Ground Swarms**
-
-↓
-
-**Aerial Swarms**
-
-↓
-
-**Artificial Intelligence and Distributed Coordination**
-
-↓
-
-**Heterogeneous Aerial-Ground Swarms**
 
 The new challenge is to move beyond independently operating homogeneous swarms and investigate how aerial and ground robotic teams with different localization systems, communication interfaces, dynamics, and control architectures can cooperate during a common mission.
 
