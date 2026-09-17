@@ -17,6 +17,8 @@ The complete project proposal is available in the following formats:
 
 - [📕 View Project Proposal - PDF](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References.pdf)
 - [📄 Download Project Proposal - Word](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References.docx)
+- [📄 Download Project Budget - Excel](Heterogeneous_Swarm_Robotics_Project_Proposal_Expanded_References.docx)
+
 
 ---
 
