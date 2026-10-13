@@ -22,7 +22,7 @@ The agent navigates toward a single goal while avoiding one obstacle using:
 
 [Python Program – Single Agent / Single Obstacle](One_Agent_One_Goal_One_obstacle.py)
 
-[Word Tutorial – Single Agent Navigation](Tutorial_Single_Agent_Navigation_English.docx)
+[Word Tutorial – Single Agent Navigation](Tutorial_Single_Agent_Navigation_English.pdf)
 
 ### Learning Objective
 
