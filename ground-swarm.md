@@ -38,6 +38,13 @@ Students will learn:
 - Multi-robot control
 - Swarm robotics
 
+
+## Ground Robot Navigation
+
+Learn the fundamentals of autonomous ground robot navigation, including goal attraction, sigmoid obstacle avoidance, and 360-degree sensing.
+
+[Go to the Ground Robot Navigation Tutorials](software/ground_swarm/computer/navigation/README.md)
+
 - ---
 
 [← Back to Home](index.md)
