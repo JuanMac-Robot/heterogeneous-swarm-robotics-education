@@ -48,7 +48,7 @@ The navigation system includes:
 
 ### Files
 
-[Python Program – Multiple Obstacles](single_agent_multiple_obstacles.py)
+[Python Program – Multiple Obstacles](One_Agent_One_Goal_Many_Obstacle.py)
 
 [Word Tutorial – Multiple Obstacle Navigation](Tutorial_Multi_Obstacle_Single_Agent_Navigation_English.docx)
 
