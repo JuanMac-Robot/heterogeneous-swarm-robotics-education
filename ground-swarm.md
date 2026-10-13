@@ -46,6 +46,9 @@ Learn the fundamentals of autonomous ground robot navigation, including goal att
 [Go to the Ground Robot Navigation Tutorials](software/ground_swarm/computer/navigation/README.md)
 
 
+[Go to the Ground Robot Navigation Tutorials](Software/ground_swarm/computer/navigation/README.md)
+
+
 - ---
 
 [← Back to Home](index.md)
