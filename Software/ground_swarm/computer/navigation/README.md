@@ -50,7 +50,7 @@ The navigation system includes:
 
 [Python Program – Multiple Obstacles](One_Agent_One_Goal_Many_Obstacle.py)
 
-[Word Tutorial – Multiple Obstacle Navigation](Tutorial_Multi_Obstacle_Single_Agent_Navigation_English.docx)
+[Word Tutorial – Multiple Obstacle Navigation](Tutorial_Multi_Obstacle_Single_Agent_Navigation_English.pdf)
 
 ### Learning Objective
 
