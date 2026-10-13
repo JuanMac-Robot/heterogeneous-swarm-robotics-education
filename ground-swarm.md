@@ -43,8 +43,6 @@ Students will learn:
 
 Learn the fundamentals of autonomous ground robot navigation, including goal attraction, sigmoid obstacle avoidance, and 360-degree sensing.
 
-[Go to the Ground Robot Navigation Tutorials](software/ground_swarm/computer/navigation/README.md)
-
 
 [Go to the Ground Robot Navigation Tutorials](Software/ground_swarm/computer/navigation/README.md)
 
